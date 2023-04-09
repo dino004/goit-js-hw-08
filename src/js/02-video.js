@@ -1,7 +1,7 @@
 // Імпорт Vimeo плеєра
 import Player from '@vimeo/player';
 
-// Підключення 'Lodash'
+// Підключення 'lodash.throttle'
 var throttle = require('lodash.throttle');
 
 // Ініціалізація плеєра
